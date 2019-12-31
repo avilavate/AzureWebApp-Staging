@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{CA3EB3C2-FD8A-4612-8A17-1CC613BFBB12}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AzureWebApp/Controllers/HomeController.cs">
+    <Files>
+      <File FileName="AzureWebApp/Controllers/HomeController.cs" Line="53" Column="1" />
+      <File FileName="AzureWebApp/Views/Home/Index.cshtml" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AzureWebApp" expanded="True">
+            <Node name="AzureWebApp" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="HomeController.cs" selected="True" />
+              </Node>
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.AzureWebApp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
