@@ -2,15 +2,25 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp2.1</TargetFramework>
+    <ApplicationInsightsResourceId>/subscriptions/9292eacc-7aea-4da8-a1ba-c03ad479ab1e/resourcegroups/azurehello/providers/microsoft.insights/components/azurehellowebapp</ApplicationInsightsResourceId>
   </PropertyGroup>
 
   <ItemGroup>
+    <_ContentIncludedByDefault Remove="Connected Services\Application Insights\ConnectedService.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.ApplicationInsights.AspNetCore" Version="2.8.1" />
     <PackageReference Include="Microsoft.AspNetCore.App" Version="$(AspNetCoreAppRuntimeFrameworkVersion)">
       <IsImplicitlyDefined>true</IsImplicitlyDefined>
       <PrivateAssets>All</PrivateAssets>
       <Publish>true</Publish>
     </PackageReference>
     <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.1.2" PrivateAssets="All" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services" />
   </ItemGroup>
 
 </Project>

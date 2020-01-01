@@ -1,28 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "/Users/avilavate/Projects/AzureWebApp/AzureWebApp/AzureWebApp.csproj": {}
+    "C:\\Users\\avate avil\\Source\\Repos\\avilavate\\AzureWebApp-Staging\\AzureWebApp\\AzureWebApp.csproj": {}
   },
   "projects": {
-    "/Users/avilavate/Projects/AzureWebApp/AzureWebApp/AzureWebApp.csproj": {
+    "C:\\Users\\avate avil\\Source\\Repos\\avilavate\\AzureWebApp-Staging\\AzureWebApp\\AzureWebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/avilavate/Projects/AzureWebApp/AzureWebApp/AzureWebApp.csproj",
+        "projectUniqueName": "C:\\Users\\avate avil\\Source\\Repos\\avilavate\\AzureWebApp-Staging\\AzureWebApp\\AzureWebApp.csproj",
         "projectName": "AzureWebApp",
-        "projectPath": "/Users/avilavate/Projects/AzureWebApp/AzureWebApp/AzureWebApp.csproj",
-        "packagesPath": "/Users/avilavate/.nuget/packages/",
-        "outputPath": "/Users/avilavate/Projects/AzureWebApp/AzureWebApp/obj/",
+        "projectPath": "C:\\Users\\avate avil\\Source\\Repos\\avilavate\\AzureWebApp-Staging\\AzureWebApp\\AzureWebApp.csproj",
+        "packagesPath": "C:\\Users\\avate avil\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\avate avil\\Source\\Repos\\avilavate\\AzureWebApp-Staging\\AzureWebApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "/Users/avilavate/.config/NuGet/NuGet.Config"
+          "C:\\Users\\avate avil\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.1"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -39,6 +43,10 @@
       "frameworks": {
         "netcoreapp2.1": {
           "dependencies": {
+            "Microsoft.ApplicationInsights.AspNetCore": {
+              "target": "Package",
+              "version": "[2.8.1, )"
+            },
             "Microsoft.AspNetCore.App": {
               "suppressParent": "All",
               "target": "Package",
@@ -51,16 +59,23 @@
               "version": "[2.1.2, )"
             },
             "Microsoft.NETCore.App": {
+              "suppressParent": "All",
               "target": "Package",
               "version": "[2.1.0, )",
               "autoReferenced": true
             }
           },
           "imports": [
-            "net461"
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
           ],
           "assetTargetFallback": true,
-          "warn": true
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

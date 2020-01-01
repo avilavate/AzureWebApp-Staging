@@ -24,6 +24,11 @@ namespace AzureWebApp.Controllers
             return View("index",model);
         }
 
+        public IActionResult Test()
+        {
+            throw new InvalidOperationException("Not yet supported feature");
+        }
+
         public IActionResult About()
         {
             ViewData["Message"] = "Your application description page.";

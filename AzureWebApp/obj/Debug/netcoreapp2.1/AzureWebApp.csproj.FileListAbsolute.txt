@@ -30,3 +30,38 @@
 /Users/avilavate/Projects/AzureWebApp/AzureWebApp/obj/Debug/netcoreapp2.1/AzureWebApp.dll
 /Users/avilavate/Projects/AzureWebApp/AzureWebApp/obj/Debug/netcoreapp2.1/AzureWebApp.pdb
 /Users/avilavate/Projects/AzureWebApp/AzureWebApp/obj/Debug/netcoreapp2.1/AzureWebApp.csproj.CopyComplete
+C:\Users\avate avil\Source\Repos\avilavate\AzureWebApp-Staging\AzureWebApp\obj\Debug\netcoreapp2.1\AzureWebApp.dll
+C:\Users\avate avil\Source\Repos\avilavate\AzureWebApp-Staging\AzureWebApp\obj\Debug\netcoreapp2.1\AzureWebApp.pdb
+C:\Users\avate avil\Source\Repos\avilavate\AzureWebApp-Staging\AzureWebApp\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\avate avil\Source\Repos\avilavate\AzureWebApp-Staging\AzureWebApp\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\avate avil\Source\Repos\avilavate\AzureWebApp-Staging\AzureWebApp\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\avate avil\Source\Repos\avilavate\AzureWebApp-Staging\AzureWebApp\bin\Debug\netcoreapp2.1\AzureWebApp.deps.json
+C:\Users\avate avil\Source\Repos\avilavate\AzureWebApp-Staging\AzureWebApp\bin\Debug\netcoreapp2.1\AzureWebApp.runtimeconfig.json
+C:\Users\avate avil\Source\Repos\avilavate\AzureWebApp-Staging\AzureWebApp\bin\Debug\netcoreapp2.1\AzureWebApp.runtimeconfig.dev.json
+C:\Users\avate avil\Source\Repos\avilavate\AzureWebApp-Staging\AzureWebApp\bin\Debug\netcoreapp2.1\AzureWebApp.dll
+C:\Users\avate avil\Source\Repos\avilavate\AzureWebApp-Staging\AzureWebApp\bin\Debug\netcoreapp2.1\AzureWebApp.pdb
+C:\Users\avate avil\Source\Repos\avilavate\AzureWebApp-Staging\AzureWebApp\bin\Debug\netcoreapp2.1\AzureWebApp.Views.dll
+C:\Users\avate avil\Source\Repos\avilavate\AzureWebApp-Staging\AzureWebApp\bin\Debug\netcoreapp2.1\AzureWebApp.Views.pdb
+C:\Users\avate avil\Source\Repos\avilavate\AzureWebApp-Staging\AzureWebApp\obj\Debug\netcoreapp2.1\AzureWebApp.csprojAssemblyReference.cache
+C:\Users\avate avil\Source\Repos\avilavate\AzureWebApp-Staging\AzureWebApp\obj\Debug\netcoreapp2.1\AzureWebApp.RazorAssemblyInfo.cache
+C:\Users\avate avil\Source\Repos\avilavate\AzureWebApp-Staging\AzureWebApp\obj\Debug\netcoreapp2.1\AzureWebApp.RazorAssemblyInfo.cs
+C:\Users\avate avil\Source\Repos\avilavate\AzureWebApp-Staging\AzureWebApp\obj\Debug\netcoreapp2.1\AzureWebApp.AssemblyInfoInputs.cache
+C:\Users\avate avil\Source\Repos\avilavate\AzureWebApp-Staging\AzureWebApp\obj\Debug\netcoreapp2.1\AzureWebApp.AssemblyInfo.cs
+C:\Users\avate avil\Source\Repos\avilavate\AzureWebApp-Staging\AzureWebApp\obj\Debug\netcoreapp2.1\AzureWebApp.TagHelpers.input.cache
+C:\Users\avate avil\Source\Repos\avilavate\AzureWebApp-Staging\AzureWebApp\obj\Debug\netcoreapp2.1\AzureWebApp.TagHelpers.output.cache
+C:\Users\avate avil\Source\Repos\avilavate\AzureWebApp-Staging\AzureWebApp\obj\Debug\netcoreapp2.1\AzureWebApp.RazorCoreGenerate.cache
+C:\Users\avate avil\Source\Repos\avilavate\AzureWebApp-Staging\AzureWebApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\avate avil\Source\Repos\avilavate\AzureWebApp-Staging\AzureWebApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\avate avil\Source\Repos\avilavate\AzureWebApp-Staging\AzureWebApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\avate avil\Source\Repos\avilavate\AzureWebApp-Staging\AzureWebApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\avate avil\Source\Repos\avilavate\AzureWebApp-Staging\AzureWebApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\avate avil\Source\Repos\avilavate\AzureWebApp-Staging\AzureWebApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\avate avil\Source\Repos\avilavate\AzureWebApp-Staging\AzureWebApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\avate avil\Source\Repos\avilavate\AzureWebApp-Staging\AzureWebApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\avate avil\Source\Repos\avilavate\AzureWebApp-Staging\AzureWebApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\avate avil\Source\Repos\avilavate\AzureWebApp-Staging\AzureWebApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\avate avil\Source\Repos\avilavate\AzureWebApp-Staging\AzureWebApp\obj\Debug\netcoreapp2.1\AzureWebApp.RazorTargetAssemblyInfo.cache
+C:\Users\avate avil\Source\Repos\avilavate\AzureWebApp-Staging\AzureWebApp\obj\Debug\netcoreapp2.1\AzureWebApp.RazorTargetAssemblyInfo.cs
+C:\Users\avate avil\Source\Repos\avilavate\AzureWebApp-Staging\AzureWebApp\obj\Debug\netcoreapp2.1\AzureWebApp.Views.pdb
+C:\Users\avate avil\Source\Repos\avilavate\AzureWebApp-Staging\AzureWebApp\obj\Debug\netcoreapp2.1\AzureWebApp.csproj.CopyComplete
+C:\Users\avate avil\Source\Repos\avilavate\AzureWebApp-Staging\AzureWebApp\bin\Debug\netcoreapp2.1\Connected Services\Application Insights\ConnectedService.json
